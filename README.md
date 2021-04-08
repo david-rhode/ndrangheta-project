@@ -1,0 +1,14 @@
+The Ndrangheta on Trial
+
+Using NetworkX to analyze Europe's most powerful mafia
+
+Italy's biggest mafia trial since the 1980s has just begun. Over 900 witnesses will give evidence against 350 defendants in a specially-constructed, high-security courthouse in Calabria. The men in the dock stand accused of being members of the Ndrangheta, one of the most dangerous criminal organizations in the world. 
+
+For decades it was the poor cousin of Sicily's Cosa Nostra and the Camorra of Naples. Overlooked by Hollywood, the Ndrangheta was little known outside of its home turf, Calabria's remote and rugged hillsides at the 'toe' of Italy's 'boot'. Its core businesses were extortion and kidnapping. Its structure was a loose association of families or clans, whose blood ties made them almost impossible to penetrate.
+As the Ndrangheta evolved in recent years, this structure seems to have changed. 
+
+The organization's income grew rapidly when it formed ties with the South American cartels and took a grip on the European cocaine market. In 2013, a report by the Demoskopia research institute claimed the Ndrangheta had a turnover of £44bn, more than Deutsche Bank and McDonald's combined. CNN estimates that it controls up to 80% of the cocaine coming into Europe. Along with this growth, the Ndrangheta also expanded its reach, coming to dominate the underworld in the northern Italian district of Lombardy. This expansion was accompanied by more centralized control and a higher public profile.
+In 2007 the Ndrangheta made international headlines when a feud between two clans saw six members gunned down outside a pizzeria in the small town of Duisburg in western Germany. The following year Carmelo Novella, the head of the Ndrangheta in Lombardy, was murdered in a bar in San Vittore Olona, a small town outside Milan. His demands for more autonomy had angered the bosses back home in Calabria.
+
+This period of turbulence coincided with Operation Infinito, launched by the authorities in Lombardy against the Ndrangheta. Two years of surveillance tracked the movements and interactions of more than a hundred Mafiosi. It culminated with the recording in October 2009 of the Summit di Paderno Dugnano, where senior gangsters met to elect a successor to Carmelo Novella. In 2010, the evidence gathered during Operation Infinito formed the basis for dozens of indictments, mostly on charges of participation in a mafia-type organization - defined by an omerta of silence and the power to intimidate as a group.
+Once these cases were concluded, the authorities released the pre-trial detention order triggered by the preliminary investigation judge. This contained details of the surveillance carried out during Operation Infinito. A decade later, as the Ndrangheta again finds itself in the dock, this data may provide the best insight into the structure of its leadership. So what can data science tell us about Europe's most powerful mafia?
